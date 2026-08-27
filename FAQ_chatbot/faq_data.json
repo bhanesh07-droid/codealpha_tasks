@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a software development company that offers internship programs and technology projects."
+  },
+  {
+    "question": "How many AI tasks should I complete?",
+    "answer": "The AI task instructions say to complete any 2 or 3 of the 4 listed tasks."
+  },
+  {
+    "question": "How do I submit my project?",
+    "answer": "The instructions say to submit the completed task through the submission form shared in the relevant WhatsApp group."
+  },
+  {
+    "question": "Where should I upload my source code?",
+    "answer": "The instructions ask interns to upload complete source code to GitHub in a repository named CodeAlpha_ProjectName."
+  },
+  {
+    "question": "What is the language translation task?",
+    "answer": "It is a tool where users enter text, select source and target languages, send the text to a translation API, and display the translated response."
+  },
+  {
+    "question": "What is the chatbot task?",
+    "answer": "It requires collecting FAQs, preprocessing text, matching user questions to similar FAQs, and displaying the best matching answer."
+  },
+  {
+    "question": "What is the music generation task?",
+    "answer": "It requires MIDI data, note-sequence preprocessing, an RNN/LSTM or GAN model, and generation of new MIDI sequences."
+  },
+  {
+    "question": "What is the object detection task?",
+    "answer": "It requires video input, a pretrained YOLO or Faster R-CNN detector, bounding boxes, and object tracking with a tracker such as SORT or Deep SORT."
+  }
+]
